@@ -101,7 +101,7 @@ We have used Persistent database to implement CRUD Operations.
 
 👤 **srinath katta**
 
-* GitHub: [Saikumar theppa](https://gist.github.com/Srinathkatta)
+* GitHub: [Srinath katta](https://gist.github.com/Srinathkatta)
 
 ---
 
